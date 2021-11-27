@@ -1,0 +1,19 @@
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.div1{
+    width:350px;
+}
+
+
+.Buy{
+    background-color: green;
+
+}
+
+.Buy:hover{
+    background-color: lightsalmon;
+}
